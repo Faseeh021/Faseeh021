@@ -50,12 +50,12 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 <p align="center">
- <a href="https://www.linkedin.com/in/sajjadali116" target="_blank">
+ <a href="https://www.linkedin.com/in/muhammad-faseeh-63221a263/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40">
 </a>
-<a href="https://web.facebook.com/profile.php?id=100062434656314" 
+<a href="https://www.facebook.com/profile.php?id=100019045250406" 
     target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100062434656314" height="30" width="40" /></a>
-<a href="https://instagram.com/sajjad116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjad ali" height="30" width="40" /></a>
+<a href="https://www.instagram.com/faseehmughal21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjad ali" height="30" width="40" /></a>
 </p>
 </div>
  <hr/>
